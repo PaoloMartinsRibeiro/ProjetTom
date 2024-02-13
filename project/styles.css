@@ -1,0 +1,17 @@
+#carre {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 10;
+    left: 10;
+}
+
+#zoneCible {
+    width: 150px;
+    height: 150px;
+    border: 3px dashed green;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
